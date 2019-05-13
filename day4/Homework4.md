@@ -1,0 +1,1 @@
+hàm lấy một tập ngẫu nhiên không có 2 phần tử giống nhau từ 1 mảng cho trước
